@@ -43,7 +43,8 @@ In this project, the first step is to align the objects' positions in real-world
 ## End-to-end MR-to-PC feedback
 
 After coordination and communication, this project implements an end-to-end feedback module that provides feedback of the results from the model of onsite or remote multi-user coordination interactions to a PC (using BIM Revit software as an example in this project, we aligned the modified model with the original to compare the differences).
-<img src="https://github.com/ryanchenggg/Multi-User-Mixed-Reality-Coordination-System/blob/main/img/mr2bim.png" width="100px">
-![image](https://github.com/ryanchenggg/Multi-User-Mixed-Reality-Coordination-System/blob/main/img/mr2bim.png)
+
+<img src="https://github.com/ryanchenggg/Multi-User-Mixed-Reality-Coordination-System/blob/main/img/mr2bim.png" width="600px">
+
 
 
