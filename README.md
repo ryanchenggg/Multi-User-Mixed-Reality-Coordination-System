@@ -4,7 +4,13 @@
 
 This project will establish a end-to-end mixed reality interactive system for multiple people to interact on-site, with the possibility of remote third parties joining for coordination. Using the coordination between construction site engineers as an example, this project can instantly update the Building Information Model (BIM) with modifications made to 3D models during coordindations, thereby improving collaboration efficiency.
 
-[![Watch the video](https://github.com/ryanchenggg/Multi-User-Mixed-Reality-Coordination-System/blob/main/img/coordination.png)](https://www.youtube.com/watch?v=M2ibKEc0ke4&ab_channel=huai-encheng)
+# Demo
+
+The image below links to our demo video. As you can see in the video, the movement of another MR user is observable, and within the same space, there are objects that have been aligned and adjusted.
+
+<a href="https://www.youtube.com/watch?v=M2ibKEc0ke4&ab_channel=huai-encheng" title="Watch the video">
+    <img src="https://github.com/ryanchenggg/Multi-User-Mixed-Reality-Coordination-System/blob/main/img/coordination.png" alt="Watch the video" width="600" height="400">
+</a>
 
 ## Prerequisites
 ### Recommended Tool Versions
