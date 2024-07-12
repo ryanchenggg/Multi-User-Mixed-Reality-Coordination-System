@@ -37,7 +37,7 @@ To ensure the best performance and compatibility, it is recommended to use the f
 
 ## Contribution
 
-1. Development of a multi-user on-site real-time interactive connection system
+1. Development of a on-site multi-user coordination system
 2. Real-time feedback of coordination results to PC-based application software
 
 ## System workflow
