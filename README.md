@@ -24,25 +24,26 @@ To ensure the best performance and compatibility, it is recommended to use the f
 - **ASA SDK for Windows**: Version 2.11.0 or newer.
 - note: ASA SDK 2.9 and asset 2.4.0 have known conflicts (consider ASA SDK 2.8.1 for stability).
 
-### Photon
-
-- **Photon Unity Networking (PUN)**: [PUN 2 - FREE from Unity Asset Store](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922).
-- **MRTK Extensions for Photon**: These are crucial for enabling multi-user capabilities and should match the MRTK version you are using.
-
 ## Contribution
 
 1. Development of a multi-user on-site real-time interactive connection system
 2. Real-time feedback of coordination results to PC-based application software
 
+### Photon
+
+- **Photon Unity Networking (PUN)**: [PUN 2 - FREE from Unity Asset Store](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922).
+- **MRTK Extensions for Photon**: These are crucial for enabling multi-user capabilities and should match the MRTK version you are using.
+
 ## System workflow
 
 In this project, the first step is to align the objects' positions in real-world space. To ensure consistency of object positions across all devices, we use Azure Spatial Anchors to establish anchor points. Finally, we utilize the Photon Networking connection module to synchronize user information and changes in model appearance between users.
-<img src="./img/connectionsyswf.png](https://github.com/ryanchenggg/Multi-User-Mixed-Reality-Coordination-System/blob/main/img/connectionsyswf.png" width="600" alt="Description of the image">
+
 ![image](https://github.com/ryanchenggg/Multi-User-Mixed-Reality-Coordination-System/blob/main/img/connectionsyswf.png)
 
 ## End-to-end MR-to-PC feedback
 
 After coordination and communication, this project implements an end-to-end feedback module that provides feedback of the results from the model of onsite or remote multi-user coordination interactions to a PC (using BIM Revit software as an example in this project, we aligned the modified model with the original to compare the differences).
 
-![image](https://github.com/ryanchenggg/Multi-User-Mixed-Reality-Coordination-System/blob/main/img/mr2bim.pngwidth="500" height="auto")
+![image](https://github.com/ryanchenggg/Multi-User-Mixed-Reality-Coordination-System/blob/main/img/mr2bim.png)
+
 
