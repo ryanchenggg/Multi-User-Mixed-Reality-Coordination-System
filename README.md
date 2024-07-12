@@ -4,7 +4,7 @@
 
 This project will establish a end-to-end mixed reality interactive system for multiple people to interact on-site, with the possibility of remote third parties joining for coordination. Using the coordination between construction site engineers as an example, this project can instantly update the Building Information Model (BIM) with modifications made to 3D models during coordindations, thereby improving collaboration efficiency.
 
-[![Watch the video]([https://github.com/yourusername/your-repo/blob/main/image.jpg](https://github.com/ryanchenggg/Multi-User-Mixed-Reality-Coordination-System/blob/main/img/coordination.png))](https://www.youtube.com/watch?v=M2ibKEc0ke4&ab_channel=huai-encheng)
+[![Watch the video]([https://github.com/yourusername/your-repo/blob/main/coordination.jpg](https://github.com/ryanchenggg/Multi-User-Mixed-Reality-Coordination-System/blob/main/img/coordination.png))](https://www.youtube.com/watch?v=M2ibKEc0ke4&ab_channel=huai-encheng)
 
 ## Prerequisites
 ### Recommended Tool Versions
@@ -39,9 +39,9 @@ In this project, the first step is to align the objects' positions in real-world
 
 ## End-to-end MR-to-PC feedback
 
-After coordination and communication, this project implements an end-to-end feedback module that provides feedback of the results from the model of onsite or remote multi-user coordination interactions to a PC (using BIM Revit software as an example in this project).
+After coordination and communication, this project implements an end-to-end feedback module that provides feedback of the results from the model of onsite or remote multi-user coordination interactions to a PC (using BIM Revit software as an example in this project, we aligned the modified model with the original to compare the differences).
 
-![image](https://github.com/ryanchenggg/Multi-User-Mixed-Reality-Coordination-System/blob/main/img/mr2bim.png)
+![image](https://github.com/ryanchenggg/Multi-User-Mixed-Reality-Coordination-System/blob/main/img/mr2bim.pngwidth="500" height="auto")
 
 ## Contribution
 
