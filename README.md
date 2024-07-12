@@ -30,15 +30,15 @@ To ensure the best performance and compatibility, it is recommended to use the f
 - **ASA SDK for Windows**: Version 2.11.0 or newer.
 - note: ASA SDK 2.9 and asset 2.4.0 have known conflicts (consider ASA SDK 2.8.1 for stability).
 
-## Contribution
-
-1. Development of a multi-user on-site real-time interactive connection system
-2. Real-time feedback of coordination results to PC-based application software
-
 ### Photon
 
 - **Photon Unity Networking (PUN)**: [PUN 2 - FREE from Unity Asset Store](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922).
 - **MRTK Extensions for Photon**: These are crucial for enabling multi-user capabilities and should match the MRTK version you are using.
+
+## Contribution
+
+1. Development of a multi-user on-site real-time interactive connection system
+2. Real-time feedback of coordination results to PC-based application software
 
 ## System workflow
 
