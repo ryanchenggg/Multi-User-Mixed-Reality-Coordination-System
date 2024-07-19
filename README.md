@@ -4,7 +4,7 @@
 
 This project will establish a end-to-end mixed reality interactive system for multiple people to interact on-site, with the possibility of remote third parties joining for coordination. Using the coordination between construction site engineers as an example, this project can instantly update the Building Information Model (BIM) with modifications made to 3D models during coordindations, thereby improving collaboration efficiency.
 
-# Demo
+## Demo
 
 The image below links to our demo video. As you can see in the video, the movement of another MR user is observable, and within the same space, there are objects that have been aligned and adjusted.
 
